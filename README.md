@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## 💻 Systems and Computer Engineering | Full-Stack Developer | Data Enthusiast
+## 💻 Systems and Computer Engineer | Full-Stack Developer | Data Enthusiast
 
 - 🎯 Focused on building efficient and scalable web applications using **React** and **Node.js**
 - 🧠 Passionate about **Data Science** and **Machine Learning** with **Python**
